@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tannivra
+👋 Hi, I’m @tannivra
 
 <!---
 tannivra/tannivra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
